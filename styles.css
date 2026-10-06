@@ -38,3 +38,6 @@ footer{text-align:center;padding:22px;color:var(--muted);font-size:12px}
 @media(max-width:850px){.span-3,.span-4,.span-6,.span-8{grid-column:span 12}.topbar{position:relative;align-items:flex-start;flex-direction:column}.top-actions{width:100%}.top-actions input{width:100%}.nav{top:0}.table-wrap{font-size:12px}th{top:49px}}
 
 .version-badge{font-size:11px;border:1px solid var(--line);padding:4px 8px;border-radius:999px;color:var(--muted)}
+
+select{padding:9px 10px;border:1px solid var(--line);border-radius:9px;background:var(--card);color:var(--text)}
+details .card{box-shadow:none;margin:8px 0}
